@@ -10,6 +10,8 @@ In this website I used HTML5 and CSS framework Bootstrap . This design made from
 - Best Bike collection
 - New Arrival Bike
 - Clients Review
+- Blogs
+- Discounts
 - FQA
 
 ## 🔗 Links
