@@ -16,4 +16,4 @@ In this website I used HTML5 and CSS framework Bootstrap . This design made from
 
 ## 🔗 Links
 
-[Biker Zone](https://habibaferdausi.github.io/bike-zone/)
+[Biker Zone](https://habibaferdausi.github.io/Biker-zone-Bootstrap)
